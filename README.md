@@ -67,13 +67,13 @@ Este trabajo tendrá una nota normalizada en 10.0 puntos, los cuales se componen
  </thead>
  <tr>
   <td>Funcionalidad</td>
-  <td>9.0</td>
-  <td>90 %</td>
+  <td>8.0</td>
+  <td>80 %</td>
  </tr>
  <tr>
   <td>Estilo</td>
-  <td>1.0</td>
-  <td>10 %</td>
+  <td>2.0</td>
+  <td>20 %</td>
  </tr>
  <tr>
   <td>Total</td>
